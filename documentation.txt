@@ -1,0 +1,15 @@
+Spending Manager est une application de suivi de mes depenses quotidiennes. L'objecif première est de pouvoir apprendre et améliorer mes connaissances en programmation. L'objectif sécondaire est de me permettre de suivre mes dépenses quotidiennes afin de mieux gérer mon argent.
+
+Comme technologies que je souhaite apprendre :
+	Springboot
+	Spring Security
+	Spring JPA
+	Angular 2+
+	Bootstrap
+	Concepts liés à la sécurité des applications web
+
+Comme fonctionnalités
+	Ajout des dépenses quotidiennes
+	Mise en place de budget plafon pour chaque dépense mensuelle régulière
+	Statistiques et comparaison
+
