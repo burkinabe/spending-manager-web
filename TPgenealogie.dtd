@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT gene (personne+)>
+		<!ELEMENT personne (nom,parents)>
+				 <!ATTLIST personne id ID #IMPLIED>
+				 <!ATTLIST personne genre (h|f) #REQUIRED>
+				 <!ELEMENT nom (#PCDATA)>
+				 <!ELEMENT parents EMPTY>
+						 <!ATTLIST parents ref IDREFS #REQUIRED>

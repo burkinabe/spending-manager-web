@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE genealogie SYSTEM "genealogie.dtd">
+<gene>
+    <personne id="1" genre="h">
+        <nom>SAVADOGO Abdoul Karim</nom>
+    </personne>
+    <personne id="2" genre="f">
+        <nom>SAVADOGO Aminata</nom>
+        <parent ref="1"/>
+    </personne>
+</gene>

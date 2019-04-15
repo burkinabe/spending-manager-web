@@ -7,6 +7,7 @@ Comme technologies que je souhaite apprendre :
 	Angular 2+
 	Bootstrap
 	Concepts liés à la sécurité des applications web
+	Les test unitaires
 
 Comme fonctionnalités
 	Ajout des dépenses quotidiennes

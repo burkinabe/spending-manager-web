@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chimie SYSTEM "chimie.dtd">
+<?xml-stylesheet type="text/xsl" href="chimie.xsl"?>
+<chimie>
+	<liste_corps>
+		<corps>
+			<nom>eau</nom>
+			<composant ref="H" nb="2"/>
+			<composant ref="O" nb="1"/>
+		</corps>
+		<corps>
+			<nom>méthane</nom>
+			<composant ref="C" nb="1"/>
+			<composant ref="H" nb="4"/>
+		</corps>
+		<corps>
+			<nom>éthane</nom>
+			<composant ref="C" nb="2"/>
+			<composant ref="H" nb="6"/>
+		</corps>
+		<corps>
+			<nom>acide sulfurique</nom>
+			<composant ref="H" nb="2"/>
+			<composant ref="S" nb="1"/>
+			<composant ref="O" nb="4"/>
+		</corps>
+		<corps>
+			<nom>soude</nom>
+			<composant ref="Na" nb="1"/>
+			<composant ref="O" nb="1"/>
+			<composant ref="H" nb="1"/>
+		</corps>
+		<corps>
+			<nom>acide nitrique</nom>
+			<composant ref="H" nb="1"/>
+			<composant ref="N" nb="1"/>
+			<composant ref="O" nb="3"/>
+		</corps>
+	</liste_corps>
+	<liste_atomes>
+		<atome symbole="H" Z="1">
+			<nom>hydrogène</nom>
+			<couche>1</couche>
+			<periph>1</periph>
+			<masse>1</masse>
+		</atome>
+		<atome symbole="He" Z="2">
+			<nom>hélium</nom>
+			<couche>1</couche>
+			<periph>8</periph>
+			<masse>4</masse>
+			<type>gaz rare</type>
+		</atome>
+		<atome symbole="C" Z="6">
+			<nom>carbone</nom>
+			<couche>2</couche>
+			<periph>4</periph>
+			<masse>12</masse>
+			<type>non métal</type>
+		</atome>
+		<atome symbole="N" Z="7">
+			<nom>azote</nom>
+			<couche>2</couche>
+			<periph>5</periph>
+			<masse>14</masse>
+			<type>non métal</type>
+		</atome>
+		<atome symbole="O" Z="8">
+			<nom>oxygène</nom>
+			<couche>2</couche>
+			<periph>6</periph>
+			<masse>16</masse>
+			<type>non métal</type>
+		</atome>
+		<atome symbole="F" Z="9">
+			<nom>fluor</nom>
+			<couche>2</couche>
+			<periph>7</periph>
+			<masse>19</masse>
+			<type>non métal</type>
+		</atome>
+		<atome symbole="Ne" Z="10">
+			<nom>néon</nom>
+			<couche>2</couche>
+			<periph>8</periph>
+			<masse>20</masse>
+			<type>gaz rare</type>
+		</atome>
+		<atome symbole="Na" Z="11">
+			<nom>sodium</nom>
+			<couche>3</couche>
+			<periph>1</periph>
+			<masse>23</masse>
+			<type>métal alcalin</type>
+		</atome>
+		<atome symbole="S" Z="16">
+			<nom>soufre</nom>
+			<couche>3</couche>
+			<periph>6</periph>
+			<masse>32</masse>
+			<type>non métal</type>
+		</atome>
+		<atome symbole="Cl" Z="17">
+			<nom>chlore</nom>
+			<couche>3</couche>
+			<periph>7</periph>
+			<masse>35.5</masse>
+			<type>non métal</type>
+		</atome>
+		<atome symbole="Ar" Z="18">
+			<nom>argon</nom>
+			<couche>3</couche>
+			<periph>8</periph>
+			<masse>40</masse>
+			<type>gaz rare</type>
+		</atome>
+	</liste_atomes>
+</chimie>
+
